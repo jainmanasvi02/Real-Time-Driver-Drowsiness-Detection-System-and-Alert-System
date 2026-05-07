@@ -19,7 +19,7 @@ The project analyzes video sequences of drivers and predicts whether the driver 
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Languages & Frameworks
 
@@ -65,7 +65,7 @@ Dataset contains:
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## Clone Repository
 
@@ -94,7 +94,7 @@ source venv/bin/activate
 
 ---
 
-## 3️⃣ Install Dependencies
+## Install Dependencies
 
 ```bash
 pip install tensorflow opencv-python numpy matplotlib seaborn scikit-learn pillow kagglehub scipy
@@ -156,7 +156,7 @@ The system supports:
 
 ---
 
-# 📸 Sample Workflow
+# Sample Workflow
 
 ```text
 Video Input → Frame Extraction → CNN Feature Extraction → LSTM Sequence Learning → Drowsy / Alert Prediction
