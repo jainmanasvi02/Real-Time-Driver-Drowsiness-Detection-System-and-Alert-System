@@ -1,8 +1,8 @@
-# Real Time Driver Drowsiness Detection System
+# Real Time Driver Drowsiness Detection System and Alert System
 
 An AI-powered Driver Drowsiness Detection System built using **Deep Learning**, **TensorFlow**, **OpenCV**, and **LSTM networks** to detect driver fatigue in real time.
 
-The project analyzes video sequences of drivers and predicts whether the driver is **drowsy** or **alert**, helping improve road safety and reduce accident risks.
+The project analyzes video sequences of drivers and predicts whether the driver is **drowsy** or **alert**, helping improve road safety and reduce accident risks. After detection if the dirver is found to be drowsy then a sound alert is generated to wake them up.
 
 ---
 
