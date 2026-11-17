@@ -16,6 +16,7 @@ The project analyzes video sequences of drivers and predicts whether the driver 
 * Confusion matrix and evaluation metrics
 * Model checkpoint saving and loading
 * Audio alert system for drowsiness detection
+* Fallback mechanism for drowsiness detection using eye closure time
 
 ---
 
@@ -30,6 +31,7 @@ The project analyzes video sequences of drivers and predicts whether the driver 
 * Scikit-learn
 * Matplotlib
 * Seaborn
+* Scipy
 
 ---
 
@@ -178,13 +180,14 @@ This project demonstrates:
 
 ---
 
+# LICENSE
+MIT
+
 # Author
 
 ## Manasvi Jain
 
 
- If You Like This Project
 
-Give this repository a ⭐ on GitHub and support the project.
 
 
