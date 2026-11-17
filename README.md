@@ -15,7 +15,7 @@ The project analyzes video sequences of drivers and predicts whether the driver 
 * Accuracy and loss visualization
 * Confusion matrix and evaluation metrics
 * Model checkpoint saving and loading
-* udio alert system for drowsiness detection
+* Audio alert system for drowsiness detection
 
 ---
 
